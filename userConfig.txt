@@ -1,0 +1,3 @@
+[Control]
+Wiimote Source0 = 0
+WiimoteProfile1 = CallOfDutyModernWarfare-Reflex

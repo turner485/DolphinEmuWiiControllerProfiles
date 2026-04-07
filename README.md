@@ -19,6 +19,7 @@ WiimoteProfile1 = NewSuperMarioBrosWii
 - `CastlevaniaJudgment.ini`
 - `GrillOffwithUltraHand.ini`
 - `MarioKartWii.ini`
+- `MonsterHunterTri.ini`
 - `Muscle.ini`
 - `NewSuperMarioBrosWii.ini`
 - `TatsunokovsCapcomUltimateAll-Stars.ini`

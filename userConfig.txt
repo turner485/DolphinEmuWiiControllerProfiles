@@ -1,3 +1,0 @@
-[Control]
-Wiimote Source0 = 0
-WiimoteProfile1 = NewSuperMarioBrosWii

@@ -15,8 +15,10 @@ WiimoteProfile1 = NewSuperMarioBrosWii
 
 ## Profiles in this repo
 
+- `3DPixelRacing.ini`
 - `Bully.ini`
 - `CastlevaniaJudgment.ini`
+- `DeadSpaceExtraction.ini`
 - `GrillOffwithUltraHand.ini`
 - `MarioKartWii.ini`
 - `MonsterHunterTri.ini`
